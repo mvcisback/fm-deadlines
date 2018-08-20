@@ -1,6 +1,6 @@
-## FM Deadlines
+## (F)ormal (M)ethods Deadlines
 
-Countdown timers to keep track of a bunch of Formal Methods (FM) (and FM related) conference deadlines.
+Countdown timers to keep track of a bunch of FM related conference deadlines.
 
 ## Adding/updating a conference
 

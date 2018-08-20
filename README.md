@@ -1,10 +1,8 @@
 ## AI Deadlines
 
-Countdown timers to keep track of a bunch of CV/NLP/ML/AI conference deadlines.
+Countdown timers to keep track of a bunch of Formal Methods (FM) (and FM related) conference deadlines.
 
 ## Adding/updating a conference
-
-To keep things minimal, I'm only looking to list top-tier conferences in AI as per [conferenceranks.com][6]. Feel free to maintain a separate fork if you don't see your sub-field or conference of interest listed.
 
 To add or update information:
 - Fork the repository
@@ -14,6 +12,7 @@ To add or update information:
 
 ## Forks & other useful listings
 
+- [ai-deadlin.es][2] by @abhshkdz
 - [geodeadlin.es][3] by @LukasMosser
 - [neuro-deadlines][4] by @tbryn
 - [ai-challenge-deadlines][5] by @dieg0as

@@ -1,17 +1,13 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: FM Conference Deadlines # (Maintained by @mvcisback)
+description: Countdowns to top FM conference deadlines
+author: Marcell Vazquez-Chanlatte
 
-domain: "aideadlin.es"
+domain: "fmdeadlin.es"
 baseurl: ""
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
+twitter_username: mvcisback
+twitter_hashtag: formalmethods
+github_username: mvcisback
+github_repo: fm-deadlines
 
 markdown: kramdown
-ga_id: UA-36274081-2
-
-include: ['_pages']

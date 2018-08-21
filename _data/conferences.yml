@@ -4,7 +4,7 @@
   id: fmcad2018
   link: http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD18/
   deadline: "2018-05-18 23:59:59"
-  timezone: AOE
+  timezone: Etc/GMT-12
   date: October 31-November 2, 2018
   place: Los Angeles, USA
   sub: FM
@@ -14,7 +14,7 @@
   id: atva2018
   link: http://atva-conference.org/
   deadline: "2018-04-11 23:59:59"
-  timezone: AOE
+  timezone: Etc/GMT-12
   date: October 7-27, 2018
   place: Los Angeles, USA
   sub: FM
@@ -34,7 +34,7 @@
   id: hscc2019
   link: http://hscc2019.eecs.umich.edu/index.html
   deadline: "2018-10-17 23:59:59"
-  timezone: AOE
+  timezone: Etc/GMT-12
   date: April 16-18, 2019
   place: Montreal, Canada
   sub: FM
@@ -54,7 +54,7 @@
   id: cav2019
   link: http://i-cav.org/2019/
   deadline: "2019-02-07 23:59:59"
-  timezone: AOE
+  timezone: Etc/GMT-12
   date: July 15-18, 2019
   place: New York City, USA
   sub: FM
@@ -64,7 +64,7 @@
   id: fm2019
   link: http://formalmethods2019.inesctec.pt/
   deadline: "2019-04-28 23:59:59"
-  timezone: AOE
+  timezone: Etc/GMT-12
   date: October 7-11, 2019
   place: Porto, Portugal
   sub: FM

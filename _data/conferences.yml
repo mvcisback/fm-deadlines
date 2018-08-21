@@ -1,1 +1,30 @@
 ---
+- name: HSCC
+  year: 2019
+  id: hscc2019
+  link: http://hscc2019.eecs.umich.edu/index.html
+  deadline: "2018-10-17 23:59:59"
+  timezone: AOE
+  date: April 16-18, 2019
+  place: Montreal, Canada
+  sub: FM
+
+- name: TACAS
+  year: 2019
+  id: tacas19
+  link: https://conf.researchr.org/track/etaps-2019/tacas-2019-papers#About
+  deadline: "2018-11-15 23:59:59"
+  timezone: Etc/GMT-12
+  date: April 8 - April 11, 2019
+  place: Orea Hotel Pyramida, Praha, Prague, Czech Republic
+  sub: FM
+
+- name: ICRA
+  year: 2019
+  id: icra2019
+  link: https://icra2019.org//
+  deadline: "2018-09-15 23:59:59"
+  timezone: Etc/GMT
+  date: May 20-24, 2019
+  place: Montreal, Canada
+  sub: RO

@@ -48,3 +48,13 @@
   date: July 15-18, 2019
   place: New York City, USA
   sub: FM
+
+- name: FM
+  year: 2019
+  id: fm2019
+  link: http://formalmethods2019.inesctec.pt/
+  deadline: "2019-04-28 23:59:59"
+  timezone: AOE
+  date: October 7-11, 2019
+  place: Porto, Portugal
+  sub: FM

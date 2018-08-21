@@ -1,6 +1,16 @@
 
 ---
 
+- name: ICRA
+  year: 2019
+  id: icra2019
+  link: https://icra2019.org//
+  deadline: "2018-09-15 23:59:59"
+  timezone: Etc/GMT
+  date: May 20-24, 2019
+  place: Montreal, Canada
+  sub: RO
+
 - name: HSCC
   year: 2019
   id: hscc2019
@@ -20,14 +30,13 @@
   date: April 8 - April 11, 2019
   place: Orea Hotel Pyramida, Praha, Prague, Czech Republic
   sub: FM
-
-- name: ICRA
-  year: 2019
-  id: icra2019
-  link: https://icra2019.org//
-  deadline: "2018-09-15 23:59:59"
-  timezone: Etc/GMT
-  date: May 20-24, 2019
-  place: Montreal, Canada
-  sub: RO
   
+- name: CAV
+  year: 2019
+  id: cav2019
+  link: http://i-cav.org/2019/
+  deadline: "2019-02-07 23:59:59"
+  timezone: AOE
+  date: July 15-18, 2019
+  place: New York City, USA
+  sub: FM

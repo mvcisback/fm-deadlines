@@ -1,6 +1,16 @@
 
 ---
 
+- name: HSB
+  year: 2019
+  id: hsb2019
+  link: http://hsb2019.fit.vutbr.cz/index.php
+  deadline: "2018-12-16 23:59:59"
+  timezone: Etc/GMT-12
+  date: April 6 - April 7, 2019
+  place: Orea Hotel Pyramida, Praha, Prague, Czech Republic
+  sub: FM
+
 - name: TACAS
   year: 2019
   id: tacas19

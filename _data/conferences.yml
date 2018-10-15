@@ -11,14 +11,24 @@
   place: Orea Hotel Pyramida, Praha, Prague, Czech Republic
   sub: FM
 
-- name: TACAS
-  year: 2019
-  id: tacas19
-  link: https://conf.researchr.org/track/etaps-2019/tacas-2019-papers#About
-  deadline: "2018-11-15 23:59:59"
+- name: FMCAD
+  year: 2018
+  id: fmcad2018
+  link: http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD18/
+  deadline: "2018-05-18 23:59:59"
   timezone: Etc/GMT-12
-  date: April 8 - April 11, 2019
-  place: Orea Hotel Pyramida, Praha, Prague, Czech Republic
+  date: October 31-November 2, 2018
+  place: Los Angeles, USA
+  sub: FM
+  
+- name: ATVA
+  year: 2018
+  id: atva2018
+  link: http://atva-conference.org/
+  deadline: "2018-04-11 23:59:59"
+  timezone: Etc/GMT-12
+  date: October 7-27, 2018
+  place: Los Angeles, USA
   sub: FM
 
 - name: ICRA
@@ -30,4 +40,43 @@
   date: May 20-24, 2019
   place: Montreal, Canada
   sub: RO
+
+- name: HSCC
+  year: 2019
+  id: hscc2019
+  link: http://hscc2019.eecs.umich.edu/index.html
+  deadline: "2018-10-17 23:59:59"
+  timezone: Etc/GMT-12
+  date: April 16-18, 2019
+  place: Montreal, Canada
+  sub: FM
+
+- name: TACAS
+  year: 2019
+  id: tacas19
+  link: https://conf.researchr.org/track/etaps-2019/tacas-2019-papers#About
+  deadline: "2018-11-15 23:59:59"
+  timezone: Etc/GMT-12
+  date: April 8 - April 11, 2019
+  place: Orea Hotel Pyramida, Praha, Prague, Czech Republic
+  sub: FM
   
+- name: CAV
+  year: 2019
+  id: cav2019
+  link: http://i-cav.org/2019/
+  deadline: "2019-02-07 23:59:59"
+  timezone: Etc/GMT-12
+  date: July 15-18, 2019
+  place: New York City, USA
+  sub: FM
+
+- name: FM
+  year: 2019
+  id: fm2019
+  link: http://formalmethods2019.inesctec.pt/
+  deadline: "2019-04-28 23:59:59"
+  timezone: Etc/GMT-12
+  date: October 7-11, 2019
+  place: Porto, Portugal
+  sub: FM

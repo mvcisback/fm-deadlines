@@ -1,4 +1,14 @@
 ---
+- name: MT-CPS
+  year: 2019
+  id: mtcps2019
+  link: https://sites.google.com/berkeley.edu/mt-cps2019
+  deadline: "2019-02-24 23:59:59"
+  timezone: Etc/GMT-12
+  date: April 15, 2019
+  place: Fairmont The Queen Elizabeth, Montreal, Canada
+  sub: FM
+
 - name: HSB
   year: 2019
   id: hsb2019

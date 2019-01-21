@@ -1,5 +1,5 @@
 ---
-- name: CAV
+- title: CAV
   year: 2019
   id: cav2019
   link: http://i-cav.org/2019/
@@ -9,7 +9,7 @@
   place: New York City, USA
   sub: FM
 
-- name: MT-CPS
+- title: MT-CPS
   year: 2019
   id: mtcps2019
   link: https://sites.google.com/berkeley.edu/mt-cps2019
@@ -19,7 +19,7 @@
   place: Fairmont The Queen Elizabeth, Montreal, Canada
   sub: FM
 
-- name: FM
+- title: FM
   year: 2019
   id: fm2019
   link: http://formalmethods2019.inesctec.pt/
@@ -29,7 +29,7 @@
   place: Porto, Portugal
   sub: FM
 
-- name: HSB
+- title: HSB
   year: 2019
   id: hsb2019
   link: http://hsb2019.fit.vutbr.cz/index.php
@@ -39,7 +39,7 @@
   place: Orea Hotel Pyramida, Praha, Prague, Czech Republic
   sub: FM
 
-- name: TACAS
+- title: TACAS
   year: 2019
   id: tacas19
   link: https://conf.researchr.org/track/etaps-2019/tacas-2019-papers#About
@@ -49,7 +49,7 @@
   place: Los Angeles, USA
   sub: FM
   
-- name: ATVA
+- title: ATVA
   year: 2018
   id: atva2018
   link: http://atva-conference.org/
@@ -59,7 +59,7 @@
   place: Los Angeles, USA
   sub: FM
 
-- name: ICRA
+- title: ICRA
   year: 2019
   id: icra2019
   link: https://icra2019.org//
@@ -69,7 +69,7 @@
   place: Montreal, Canada
   sub: RO
 
-- name: HSCC
+- title: HSCC
   year: 2019
   id: hscc2019
   link: http://hscc2019.eecs.umich.edu/index.html
@@ -79,7 +79,7 @@
   place: Montreal, Canada
   sub: FM
 
-- name: TACAS
+- title: TACAS
   year: 2019
   id: tacas19
   link: https://conf.researchr.org/track/etaps-2019/tacas-2019-papers#About
@@ -89,7 +89,7 @@
   place: Orea Hotel Pyramida, Praha, Prague, Czech Republic
   sub: FM
   
-- name: FMCAD
+- title: FMCAD
   year: 2018
   id: fmcad2018
   link: http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD18/

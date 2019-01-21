@@ -1,4 +1,14 @@
 ---
+- name: CAV
+  year: 2019
+  id: cav2019
+  link: http://i-cav.org/2019/
+  deadline: "2019-02-07 23:59:59"
+  timezone: Etc/GMT-12
+  date: July 15-18, 2019
+  place: New York City, USA
+  sub: FM
+
 - name: MT-CPS
   year: 2019
   id: mtcps2019
@@ -7,6 +17,16 @@
   timezone: Etc/GMT-12
   date: April 15, 2019
   place: Fairmont The Queen Elizabeth, Montreal, Canada
+  sub: FM
+
+- name: FM
+  year: 2019
+  id: fm2019
+  link: http://formalmethods2019.inesctec.pt/
+  deadline: "2019-04-28 23:59:59"
+  timezone: Etc/GMT-12
+  date: October 7-11, 2019
+  place: Porto, Portugal
   sub: FM
 
 - name: HSB
@@ -69,26 +89,6 @@
   place: Orea Hotel Pyramida, Praha, Prague, Czech Republic
   sub: FM
   
-- name: CAV
-  year: 2019
-  id: cav2019
-  link: http://i-cav.org/2019/
-  deadline: "2019-02-07 23:59:59"
-  timezone: Etc/GMT-12
-  date: July 15-18, 2019
-  place: New York City, USA
-  sub: FM
-
-- name: FM
-  year: 2019
-  id: fm2019
-  link: http://formalmethods2019.inesctec.pt/
-  deadline: "2019-04-28 23:59:59"
-  timezone: Etc/GMT-12
-  date: October 7-11, 2019
-  place: Porto, Portugal
-  sub: FM
-
 - name: FMCAD
   year: 2018
   id: fmcad2018

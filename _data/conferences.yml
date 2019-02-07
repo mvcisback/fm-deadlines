@@ -1,10 +1,12 @@
+
 ---
+
 - title: CAV
   year: 2019
   id: cav2019
   link: http://i-cav.org/2019/
-  deadline: "2019-02-07 23:59:59"
-  timezone: Etc/GMT-12
+  deadline: '2019-02-07 23:59:59'
+  timezone: Etc/GMT+12
   date: July 15-18, 2019
   place: New York City, USA
   sub: FM
@@ -13,8 +15,8 @@
   year: 2019
   id: mtcps2019
   link: https://sites.google.com/berkeley.edu/mt-cps2019
-  deadline: "2019-02-24 23:59:59"
-  timezone: Etc/GMT-12
+  deadline: '2019-02-24 23:59:59'
+  timezone: Etc/GMT+12
   date: April 15, 2019
   place: Fairmont The Queen Elizabeth, Montreal, Canada
   sub: FM
@@ -23,47 +25,17 @@
   year: 2019
   id: fm2019
   link: http://formalmethods2019.inesctec.pt/
-  deadline: "2019-04-28 23:59:59"
-  timezone: Etc/GMT-12
+  deadline: '2019-04-28 23:59:59'
+  timezone: Etc/GMT+12
   date: October 7-11, 2019
   place: Porto, Portugal
-  sub: FM
-
-- title: HSB
-  year: 2019
-  id: hsb2019
-  link: http://hsb2019.fit.vutbr.cz/index.php
-  deadline: "2018-12-16 23:59:59"
-  timezone: Etc/GMT-12
-  date: April 6 - April 7, 2019
-  place: Orea Hotel Pyramida, Praha, Prague, Czech Republic
-  sub: FM
-
-- title: TACAS
-  year: 2019
-  id: tacas19
-  link: https://conf.researchr.org/track/etaps-2019/tacas-2019-papers#About
-  deadline: "2018-11-15 23:59:59"
-  timezone: Etc/GMT-12
-  date: October 31-November 2, 2018
-  place: Los Angeles, USA
-  sub: FM
-  
-- title: ATVA
-  year: 2018
-  id: atva2018
-  link: http://atva-conference.org/
-  deadline: "2018-04-11 23:59:59"
-  timezone: Etc/GMT-12
-  date: October 7-27, 2018
-  place: Los Angeles, USA
   sub: FM
 
 - title: ICRA
   year: 2019
   id: icra2019
   link: https://icra2019.org//
-  deadline: "2018-09-15 23:59:59"
+  deadline: '2018-09-15 23:59:59'
   timezone: Etc/GMT
   date: May 20-24, 2019
   place: Montreal, Canada
@@ -73,8 +45,8 @@
   year: 2019
   id: hscc2019
   link: http://hscc2019.eecs.umich.edu/index.html
-  deadline: "2018-10-17 23:59:59"
-  timezone: Etc/GMT-12
+  deadline: '2018-10-17 23:59:59'
+  timezone: Etc/GMT+12
   date: April 16-18, 2019
   place: Montreal, Canada
   sub: FM
@@ -83,14 +55,18 @@
   year: 2019
   id: tacas19
   link: https://conf.researchr.org/track/etaps-2019/tacas-2019-papers#About
-  deadline: "2018-11-15 23:59:59"
-  timezone: Etc/GMT-12
+  deadline: '2018-11-15 23:59:59'
+  timezone: Etc/GMT+12
   date: April 8 - April 11, 2019
   place: Orea Hotel Pyramida, Praha, Prague, Czech Republic
   sub: FM
-  
-- title: FMCAD
-  year: 2018
-  id: fmcad2018
-  link: http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD18/
-  deadline: "2018-05-18 23:59:59"
+
+- title: HSB
+  year: 2019
+  id: hsb2019
+  link: http://hsb2019.fit.vutbr.cz/index.php
+  deadline: '2018-12-16 23:59:59'
+  timezone: Etc/GMT+12
+  date: April 6 - April 7, 2019
+  place: Orea Hotel Pyramida, Praha, Prague, Czech Republic
+  sub: FM
